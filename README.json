@@ -136,6 +136,20 @@
         },
         {
           "node_type": "item",
+          "title": "Prisma Audit Trails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-26T21:48:48Z",
+            "owner": "BemiHQ",
+            "repo": "bemi-prisma",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Prisma Schema SDL",
           "description": null,
           "children": [],
@@ -146,20 +160,6 @@
             "owner": "amplication",
             "repo": "prisma-schema-dsl",
             "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prisma Audit Trails",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-26T21:48:48Z",
-            "owner": "BemiHQ",
-            "repo": "bemi-prisma",
-            "stars": 112
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2024-02-15T18:26:38Z",
             "owner": "notiz-dev",
             "repo": "prisma-dbml-generator",
-            "stars": 742
+            "stars": 740
           }
         },
         {
@@ -403,7 +403,7 @@
             "last_commit": "2026-06-09T01:56:15Z",
             "owner": "samchon",
             "repo": "prisma-markdown",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -451,7 +451,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47526
+            "stars": 47581
           }
         },
         {
@@ -462,10 +462,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:14:15Z",
+            "last_commit": "2026-08-14T16:31:51Z",
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18678
+            "stars": 18685
           }
         },
         {
@@ -490,7 +490,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T19:09:34Z",
+            "last_commit": "2026-08-13T21:59:14Z",
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
             "stars": 788
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:16:20.054Z",
+    "last_updated": "2026-08-14T17:15:05.485Z",
     "original_repository": "catalinmiron/awesome-prisma",
     "original_repository_sha": "5f22ba2cd0d56145fe4278b2d8b36f17d64a16c8",
     "enhanced_repository": "enhansome/enhansome-prisma",
