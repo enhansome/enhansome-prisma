@@ -19,7 +19,7 @@
             "last_commit": "2024-03-20T09:16:05Z",
             "owner": "pantharshit00",
             "repo": "prisma-docs-generator",
-            "stars": 626
+            "stars": 625
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-05-15T20:02:08Z",
             "owner": "mohammed-bahumaish",
             "repo": "prisma-editor",
-            "stars": 1035
+            "stars": 1036
           }
         },
         {
@@ -451,7 +451,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47612
+            "stars": 47685
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-15T16:18:29Z",
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18687
+            "stars": 18689
           }
         },
         {
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:44:06.963Z",
+    "last_updated": "2026-08-16T16:44:41.092Z",
     "original_repository": "catalinmiron/awesome-prisma",
     "original_repository_sha": "5f22ba2cd0d56145fe4278b2d8b36f17d64a16c8",
     "enhanced_repository": "enhansome/enhansome-prisma",
