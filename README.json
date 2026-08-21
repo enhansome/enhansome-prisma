@@ -87,7 +87,7 @@
             "archived": false,
             "id": 510493496,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:11:39Z",
+            "last_commit": "2026-08-21T13:55:09Z",
             "owner": "morintd",
             "repo": "prismock",
             "stars": 267
@@ -478,7 +478,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47824
+            "stars": 47851
           }
         },
         {
@@ -490,10 +490,10 @@
             "archived": false,
             "id": 237222619,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:01:50Z",
+            "last_commit": "2026-08-21T15:53:21Z",
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18693
+            "stars": 18694
           }
         },
         {
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:54:42.026Z",
+    "last_updated": "2026-08-21T16:55:07.128Z",
     "original_repository": "catalinmiron/awesome-prisma",
     "original_repository_id": 147172706,
     "original_repository_sha": "5f22ba2cd0d56145fe4278b2d8b36f17d64a16c8",
