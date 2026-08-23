@@ -478,7 +478,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47864
+            "stars": 47878
           }
         },
         {
@@ -493,7 +493,7 @@
             "last_commit": "2026-08-22T09:09:22Z",
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18698
+            "stars": 18700
           }
         },
         {
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:43:41.946Z",
+    "last_updated": "2026-08-23T16:45:49.910Z",
     "original_repository": "catalinmiron/awesome-prisma",
     "original_repository_id": 147172706,
     "original_repository_sha": "5f22ba2cd0d56145fe4278b2d8b36f17d64a16c8",
