@@ -72,7 +72,7 @@
             "archived": false,
             "id": 273036595,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:13:19Z",
+            "last_commit": "2026-08-25T14:51:57Z",
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
             "stars": 272
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 510493496,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:55:09Z",
+            "last_commit": "2026-08-25T12:16:48Z",
             "owner": "morintd",
             "repo": "prismock",
             "stars": 267
@@ -411,10 +411,10 @@
                 "archived": false,
                 "id": 378040635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:14:01Z",
+                "last_commit": "2026-08-25T16:43:22Z",
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
-                "stars": 1032
+                "stars": 1031
               }
             },
             {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47911
+            "stars": 47921
           }
         },
         {
@@ -512,10 +512,10 @@
             "archived": false,
             "id": 237222619,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T22:07:21Z",
+            "last_commit": "2026-08-25T16:20:02Z",
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18707
+            "stars": 18708
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2023-11-21T00:06:22Z",
             "owner": "wangel13",
             "repo": "prisma-next-auth-graphql-starter",
-            "stars": 77
+            "stars": 76
           }
         },
         {
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:24.210Z",
+    "last_updated": "2026-08-25T16:58:48.580Z",
     "original_repository": "catalinmiron/awesome-prisma",
     "original_repository_id": 147172706,
     "original_repository_sha": "5f22ba2cd0d56145fe4278b2d8b36f17d64a16c8",
