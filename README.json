@@ -72,7 +72,7 @@
             "archived": false,
             "id": 273036595,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:36:19Z",
+            "last_commit": "2026-08-27T05:48:23Z",
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
             "stars": 272
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 510493496,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T20:16:59Z",
+            "last_commit": "2026-08-26T21:11:44Z",
             "owner": "morintd",
             "repo": "prismock",
             "stars": 267
@@ -411,7 +411,7 @@
                 "archived": false,
                 "id": 378040635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:56:43Z",
+                "last_commit": "2026-08-27T04:20:59Z",
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
                 "stars": 1031
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47942
+            "stars": 47953
           }
         },
         {
@@ -512,7 +512,7 @@
             "archived": false,
             "id": 237222619,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:49:53Z",
+            "last_commit": "2026-08-27T11:49:07Z",
             "owner": "wasp-lang",
             "repo": "wasp",
             "stars": 18711
@@ -598,9 +598,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:06:09.549Z",
-    "original_repository": "catalinmiron/awesome-prisma",
-    "original_repository_id": 147172706,
+    "last_updated": "2026-08-27T11:59:18.483Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 147172706,
+      "language": null,
+      "last_commit": "2024-05-23T09:23:21Z",
+      "owner": "catalinmiron",
+      "repo": "awesome-prisma",
+      "stars": 662
+    },
     "original_repository_sha": "5f22ba2cd0d56145fe4278b2d8b36f17d64a16c8",
     "enhanced_repository": "enhansome/enhansome-prisma",
     "enhanced_repository_description": null,
