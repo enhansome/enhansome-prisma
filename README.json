@@ -411,7 +411,7 @@
                 "archived": false,
                 "id": 378040635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:20:59Z",
+                "last_commit": "2026-08-27T21:37:05Z",
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
                 "stars": 1031
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47953
+            "stars": 47960
           }
         },
         {
@@ -512,7 +512,7 @@
             "archived": false,
             "id": 237222619,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:49:07Z",
+            "last_commit": "2026-08-27T19:31:40Z",
             "owner": "wasp-lang",
             "repo": "wasp",
             "stars": 18711
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:18.483Z",
+    "last_updated": "2026-08-28T00:58:47.530Z",
     "original_repository_info": {
       "archived": false,
       "id": 147172706,
