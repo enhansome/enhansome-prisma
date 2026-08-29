@@ -119,7 +119,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :family\_man\_woman\_girl\_boy: Community
 
-* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,567 | 🐛 2,579 | 🌐 TypeScript | 📅 2026-08-28
+* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,566 | 🐛 2,580 | 🌐 TypeScript | 📅 2026-08-28
 * [Website](https://prisma.io)
 * [Docs](https://prisma.io/docs/)
 * [Blog](https://prisma.io/blog)
@@ -128,7 +128,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :space\_invader: Projects Using Prisma
 
-* [Calendso](https://github.com/calendso/calendso) ⭐ 47,984 | 🐛 1,430 | 🌐 TypeScript | 📅 2026-08-08
+* [Calendso](https://github.com/calendso/calendso) ⭐ 47,992 | 🐛 1,430 | 🌐 TypeScript | 📅 2026-08-08
 * [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,712 | 🐛 844 | 🌐 TypeScript | 📅 2026-08-28 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 * [Tottem](https://github.com/poulainv/tottem) ⭐ 974 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24
 * [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) ⭐ 788 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-13 - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)

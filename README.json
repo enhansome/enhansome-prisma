@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prisma generator for automatically generating documentation reference from the Prisma schema.",
+            "homepage": null,
             "id": 278720665,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-20T09:16:05Z",
+            "open_issues": 20,
             "owner": "pantharshit00",
             "repo": "prisma-docs-generator",
-            "stars": 625
+            "stars": 625,
+            "topics": [
+              "code-generation",
+              "hacktoberfest",
+              "html",
+              "prisma",
+              "prisma-generator",
+              "prisma2"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -26,12 +38,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Schemix allows you to programmatically create Prisma schemas using TypeScript ⌨️",
+            "homepage": null,
             "id": 487696736,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-16T08:21:39Z",
+            "open_issues": 21,
             "owner": "ridafkih",
             "repo": "schemix",
-            "stars": 480
+            "stars": 480,
+            "topics": [
+              "orm",
+              "prisma"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -42,12 +62,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🧭 Use Prisma as a multi-tenant provider for your application",
+            "homepage": null,
             "id": 161353823,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-08T02:31:46Z",
+            "open_issues": 49,
             "owner": "Errorname",
             "repo": "prisma-multi-tenant",
-            "stars": 400
+            "stars": 400,
+            "topics": [
+              "multi-tenant",
+              "prisma"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -58,12 +86,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Prisma Middleware for caching queries in Redis",
+            "homepage": null,
             "id": 386706271,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-22T01:34:09Z",
+            "open_issues": 9,
             "owner": "Asjas",
             "repo": "prisma-redis-middleware",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "caching",
+              "prisma",
+              "prisma-middleware",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -74,12 +112,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extend Prisma's `findMany` method to support Relay Cursor Connections",
+            "homepage": null,
             "id": 273036595,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T10:43:41Z",
+            "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
-            "stars": 272
+            "stars": 272,
+            "topics": [
+              "cursor",
+              "graphql",
+              "hacktoberfest",
+              "pagination",
+              "prisma",
+              "prisma-client",
+              "prisma2",
+              "relay"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -90,12 +142,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mock for PrismaClient, dedicated to unit testing.",
+            "homepage": "https://www.npmjs.com/package/prismock",
             "id": 510493496,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:11:44Z",
+            "open_issues": 42,
             "owner": "morintd",
             "repo": "prismock",
-            "stars": 267
+            "stars": 267,
+            "topics": [
+              "prisma",
+              "testing",
+              "typescript",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -106,12 +168,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prettier plugin for Prisma",
+            "homepage": null,
             "id": 334474090,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:09:36Z",
+            "open_issues": 4,
             "owner": "avocadowastaken",
             "repo": "prettier-plugin-prisma",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "prettier-plugin",
+              "prisma"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -122,12 +192,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Abstract Syntax Tree for parsing schema.prisma files",
+            "homepage": null,
             "id": 360029247,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-08T21:31:21Z",
+            "open_issues": 0,
             "owner": "MrLeebo",
             "repo": "prisma-ast",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "abstract-syntax-tree",
+              "ast",
+              "javascript",
+              "parse",
+              "parser",
+              "printer",
+              "prisma",
+              "schema",
+              "sdk",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -138,12 +224,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🐈 NestJS + Prisma + Yarn Workspaces (Monorepo) full-stack project template",
+            "homepage": null,
             "id": 421381975,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-12-23T04:23:58Z",
+            "open_issues": 1,
             "owner": "overnested",
             "repo": "nestjs-prisma-monorepo",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "berry",
+              "graphql",
+              "monorepo",
+              "nestjs",
+              "nextjs",
+              "nodejs",
+              "prisma",
+              "template",
+              "typescript",
+              "yarn",
+              "yarn2",
+              "yarn3"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -154,12 +258,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic data change tracking for Prisma",
+            "homepage": "https://bemi.io",
             "id": 731782974,
             "language": "TypeScript",
+            "license": "LGPL-3.0",
             "last_commit": "2025-05-26T21:48:48Z",
+            "open_issues": 1,
             "owner": "BemiHQ",
             "repo": "bemi-prisma",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "audit-log",
+              "audit-trail",
+              "data-versioning",
+              "postgresql",
+              "prisma"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -170,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript interface for Prisma Schema DSL",
+            "homepage": null,
             "id": 283756132,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-24T00:05:50Z",
+            "open_issues": 8,
             "owner": "amplication",
             "repo": "prisma-schema-dsl",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -186,12 +306,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example showcasing how to use Prisma + Postgres + Jest, where each test has its own unique DB context",
+            "homepage": null,
             "id": 226000789,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-06T02:19:34Z",
+            "open_issues": 13,
             "owner": "ctrlplusb",
             "repo": "prisma-pg-jest",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "example",
+              "jest",
+              "postgres",
+              "prisma",
+              "prisma2"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -202,12 +333,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add a caching interface to Prisma, compatible with Memcached, Redis and Hazelcast.",
+            "homepage": null,
             "id": 392066179,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-20T18:30:25Z",
+            "open_issues": 2,
             "owner": "JoelLefkowitz",
             "repo": "cached-prisma",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "caching",
+              "hazelcast",
+              "memcached",
+              "prisma",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -218,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative Prisma Authorization layer",
+            "homepage": null,
             "id": 421091284,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-28T08:19:00Z",
+            "open_issues": 3,
             "owner": "joindeed",
             "repo": "prisma-auth",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -234,12 +381,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prisma 2+ generator to emit Yup schemas from your Prisma schema",
+            "homepage": null,
             "id": 482266269,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-28T19:36:45Z",
+            "open_issues": 0,
             "owner": "omar-dulaimi",
             "repo": "prisma-yup-generator",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "prisma",
+              "prisma-generator",
+              "yup",
+              "yup-validation"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -250,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prisma Schema Language support for WebStorm, GoLand, and other IDEs based on IntelliJ Platform.",
+            "homepage": "https://plugins.jetbrains.com/plugin/14240-prisma",
             "id": 260792812,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-02-23T19:25:52Z",
+            "open_issues": 12,
             "owner": "gabrielcolson",
             "repo": "intellij-prisma",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -266,12 +428,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library and schematics to add Prisma integration to a NestJS application",
+            "homepage": "https://nestjs-prisma.dev",
             "id": 435450393,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-23T10:07:08Z",
+            "open_issues": 0,
             "owner": "marcjulian",
             "repo": "nestjs-prisma",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "nestjs",
+              "prisma"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -282,12 +452,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prisma 2 tool to sort schema models, enums, generators and datasources",
+            "homepage": null,
             "id": 422659793,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-28T18:53:18Z",
+            "open_issues": 0,
             "owner": "omar-dulaimi",
             "repo": "prisma-schema-sorter",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "cli",
+              "prisma",
+              "prisma-schema"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -298,12 +477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo moved. Checkout the readme!",
+            "homepage": null,
             "id": 424998754,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-01-18T07:51:53Z",
+            "open_issues": 0,
             "owner": "fivethree-team",
             "repo": "nestjs-prisma-starter",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -314,12 +498,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scratchpad for Prisma2",
+            "homepage": null,
             "id": 227823270,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-11T17:05:17Z",
+            "open_issues": 14,
             "owner": "ctrlplusb",
             "repo": "prisma2-template",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -330,12 +519,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gatsby powered by Prisma 2 🚀",
+            "homepage": null,
             "id": 265896664,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-05-21T16:23:29Z",
+            "open_issues": 0,
             "owner": "lekoarts-demos",
             "repo": "gatsby-with-prisma-client",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "gatsby",
+              "gatsbyjs",
+              "prisma-client",
+              "prisma2"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -346,12 +545,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏳️‍🌈⃤ Sequelize models generator for prisma schema",
+            "homepage": null,
             "id": 397401188,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-09-17T09:39:43Z",
+            "open_issues": 0,
             "owner": "floydspace",
             "repo": "prisma-sequelize-generator",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "code-generation",
+              "generator",
+              "prisma",
+              "prisma-client",
+              "prisma2",
+              "sequelize",
+              "sequelize-models",
+              "sequelize-orm",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -362,12 +576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NX Workspace + Nest and GraphQL Starter repo ",
+            "homepage": null,
             "id": 259492963,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-03-31T22:42:38Z",
+            "open_issues": 29,
             "owner": "beeman",
             "repo": "nx-nest-graphql",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -378,12 +597,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small utility for Prisma query formatting and param substitution",
+            "homepage": null,
             "id": 802101712,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-26T09:53:37Z",
+            "open_issues": 0,
             "owner": "s1owjke",
             "repo": "prisma-query-formatter",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "database",
+              "logging",
+              "prisma",
+              "prisma-client",
+              "prisma-extension",
+              "query"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -396,12 +627,35 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use",
+                "homepage": "https://prisma-client-py.readthedocs.io",
                 "id": 321867901,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-10T08:07:05Z",
+                "open_issues": 252,
                 "owner": "RobertCraigie",
                 "repo": "prisma-client-py",
-                "stars": 2095
+                "stars": 2095,
+                "topics": [
+                  "asyncio",
+                  "database",
+                  "mongodb",
+                  "mysql",
+                  "orm",
+                  "postgresql",
+                  "prisma",
+                  "pydantic",
+                  "python",
+                  "python-types",
+                  "python310",
+                  "python37",
+                  "python38",
+                  "python39",
+                  "sqlite",
+                  "type-hints",
+                  "typing"
+                ]
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
             }
@@ -419,12 +673,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prisma Editor - A powerful tool to visualize and edit Prisma Schema.",
+                "homepage": "https://prisma-editor.bahumaish.com",
                 "id": 592902483,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-15T20:02:08Z",
+                "open_issues": 35,
                 "owner": "mohammed-bahumaish",
                 "repo": "prisma-editor",
-                "stars": 1036
+                "stars": 1036,
+                "topics": [
+                  "cockroachdb",
+                  "database",
+                  "editor",
+                  "erdiagram",
+                  "mongodb",
+                  "mysql",
+                  "nextjs",
+                  "postgersql",
+                  "prisma",
+                  "prisma-schema",
+                  "schema"
+                ]
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
             },
@@ -435,12 +706,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate an ER Diagram based on your Prisma schema every time you run npx prisma generate",
+                "homepage": "https://www.npmjs.com/package/prisma-erd-generator",
                 "id": 378040635,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:37:05Z",
+                "open_issues": 3,
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
-                "stars": 1032
+                "stars": 1032,
+                "topics": [
+                  "entity-relationship-diagram",
+                  "hacktoberfest",
+                  "mermaid",
+                  "prisma",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
             },
@@ -451,12 +733,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prisma DBML Generator",
+                "homepage": null,
                 "id": 288564876,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-02-15T18:26:38Z",
+                "open_issues": 21,
                 "owner": "notiz-dev",
                 "repo": "prisma-dbml-generator",
-                "stars": 740
+                "stars": 740,
+                "topics": [
+                  "dbml",
+                  "prisma"
+                ]
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
             },
@@ -467,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown generator of Prisma, including ERD and descriptions",
+                "homepage": null,
                 "id": 690843257,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-09T01:56:15Z",
+                "open_issues": 3,
                 "owner": "samchon",
                 "repo": "prisma-markdown",
-                "stars": 528
+                "stars": 528,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
             },
@@ -483,12 +778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small tool to visualize Prisma schemas as Entity-Relationship Diagrams.",
+                "homepage": "https://prisma-erd.simonknott.de",
                 "id": 334204362,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-12-15T17:47:27Z",
+                "open_issues": 5,
                 "owner": "Skn0tt",
                 "repo": "prisma-erd",
-                "stars": 358
+                "stars": 358,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
             },
@@ -499,12 +799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI to transform a Prisma schema to a PlantUML Entity RelationShip Diagram",
+                "homepage": null,
                 "id": 257684803,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-02-12T18:11:41Z",
+                "open_issues": 41,
                 "owner": "emyann",
                 "repo": "prisma-uml",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
             }
@@ -526,12 +831,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "homepage": "https://cal.diy",
             "id": 350360184,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T17:13:42Z",
+            "open_issues": 1430,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47984
+            "stars": 47992,
+            "topics": [
+              "next-auth",
+              "nextjs",
+              "open-source",
+              "postgresql",
+              "prisma",
+              "t3-stack",
+              "tailwindcss",
+              "trpc",
+              "turborepo",
+              "typescript",
+              "zod"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -542,12 +864,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.",
+            "homepage": "https://wasp.sh",
             "id": 237222619,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:48:23Z",
+            "open_issues": 844,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18712
+            "stars": 18712,
+            "topics": [
+              "javascript",
+              "node",
+              "open-source",
+              "prisma",
+              "react",
+              "wasp",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -558,12 +893,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺",
+            "homepage": "https://beta.tottem.app",
             "id": 206781629,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-24T01:15:30Z",
+            "open_issues": 45,
             "owner": "poulainv",
             "repo": "tottem",
-            "stars": 974
+            "stars": 974,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -574,12 +914,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 tRPC starter repo with E2E-testing",
+            "homepage": "https://nextjs.trpc.io/",
             "id": 373524663,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-13T21:59:14Z",
+            "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
-            "stars": 788
+            "stars": 788,
+            "topics": [
+              "nextjs",
+              "starter",
+              "trpc",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -590,12 +940,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next.js boilerplate for passwordless authentication with Prisma and next-auth with apollo graphql api with style from tailwindcss",
+            "homepage": null,
             "id": 299659449,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-21T00:06:22Z",
+            "open_issues": 3,
             "owner": "wangel13",
             "repo": "prisma-next-auth-graphql-starter",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -606,12 +961,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "crud for restful apis built with nestjs and prisma",
+            "homepage": null,
             "id": 295497442,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-07T12:19:44Z",
+            "open_issues": 6,
             "owner": "clayrisser",
             "repo": "nestjs-crud-prisma",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         },
@@ -622,12 +982,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo to accompany the series \"Build A Pet Management System With Remix, Prisma, and Postgres\" https://www.youtube.com/watch?v=wqyHGQlZcws&list=PLTnRtjQN5ieYu9SdwLvzKYFVtfqySY7FT",
+            "homepage": null,
             "id": 534294679,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-11T15:47:29Z",
+            "open_issues": 0,
             "owner": "AustinGil",
             "repo": "npm",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "crud",
+              "html",
+              "javascript",
+              "postgresql",
+              "prisma",
+              "react",
+              "sql",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
         }
@@ -636,15 +1010,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:34:42.416Z",
+    "last_updated": "2026-08-29T04:41:05.803Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome things regarding Prisma ecosystem.",
+      "homepage": "https://www.prisma.io/",
       "id": 147172706,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-05-23T09:23:21Z",
+      "open_issues": 18,
       "owner": "catalinmiron",
       "repo": "awesome-prisma",
-      "stars": 662
+      "stars": 662,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "graphql",
+        "list",
+        "prisma"
+      ]
     },
     "original_repository_sha": "5f22ba2cd0d56145fe4278b2d8b36f17d64a16c8",
     "enhanced_repository": "enhansome/enhansome-prisma",
