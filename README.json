@@ -16,7 +16,8 @@
             "owner": "pantharshit00",
             "repo": "prisma-docs-generator",
             "stars": 625
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ridafkih",
             "repo": "schemix",
             "stars": 480
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Errorname",
             "repo": "prisma-multi-tenant",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Asjas",
             "repo": "prisma-redis-middleware",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 273036595,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T05:48:23Z",
+            "last_commit": "2026-08-28T10:43:41Z",
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "morintd",
             "repo": "prismock",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 334474090,
             "language": "JavaScript",
-            "last_commit": "2026-06-30T22:04:36Z",
+            "last_commit": "2026-08-28T13:09:36Z",
             "owner": "avocadowastaken",
             "repo": "prettier-plugin-prisma",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "MrLeebo",
             "repo": "prisma-ast",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "overnested",
             "repo": "nestjs-prisma-monorepo",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "BemiHQ",
             "repo": "bemi-prisma",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "amplication",
             "repo": "prisma-schema-dsl",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "ctrlplusb",
             "repo": "prisma-pg-jest",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "JoelLefkowitz",
             "repo": "cached-prisma",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "joindeed",
             "repo": "prisma-auth",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "omar-dulaimi",
             "repo": "prisma-yup-generator",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "gabrielcolson",
             "repo": "intellij-prisma",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "marcjulian",
             "repo": "nestjs-prisma",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "omar-dulaimi",
             "repo": "prisma-schema-sorter",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "fivethree-team",
             "repo": "nestjs-prisma-starter",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "ctrlplusb",
             "repo": "prisma2-template",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "lekoarts-demos",
             "repo": "gatsby-with-prisma-client",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "floydspace",
             "repo": "prisma-sequelize-generator",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "beeman",
             "repo": "nx-nest-graphql",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "s1owjke",
             "repo": "prisma-query-formatter",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "children": [
@@ -377,8 +401,9 @@
                 "last_commit": "2025-04-10T08:07:05Z",
                 "owner": "RobertCraigie",
                 "repo": "prisma-client-py",
-                "stars": 2097
-              }
+                "stars": 2095
+              },
+              "first_seen": "2026-08-29T00:34:42.416Z"
             }
           ],
           "description": null,
@@ -400,7 +425,8 @@
                 "owner": "mohammed-bahumaish",
                 "repo": "prisma-editor",
                 "stars": 1036
-              }
+              },
+              "first_seen": "2026-08-29T00:34:42.416Z"
             },
             {
               "node_type": "item",
@@ -414,8 +440,9 @@
                 "last_commit": "2026-08-27T21:37:05Z",
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
-                "stars": 1031
-              }
+                "stars": 1032
+              },
+              "first_seen": "2026-08-29T00:34:42.416Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "notiz-dev",
                 "repo": "prisma-dbml-generator",
                 "stars": 740
-              }
+              },
+              "first_seen": "2026-08-29T00:34:42.416Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "samchon",
                 "repo": "prisma-markdown",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-29T00:34:42.416Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "Skn0tt",
                 "repo": "prisma-erd",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-29T00:34:42.416Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "emyann",
                 "repo": "prisma-uml",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T00:34:42.416Z"
             }
           ],
           "description": null,
@@ -500,8 +531,9 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47960
-          }
+            "stars": 47984
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -512,11 +544,12 @@
             "archived": false,
             "id": 237222619,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:31:40Z",
+            "last_commit": "2026-08-28T13:48:23Z",
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18711
-          }
+            "stars": 18712
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -531,7 +564,8 @@
             "owner": "poulainv",
             "repo": "tottem",
             "stars": 974
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -546,7 +580,8 @@
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
             "stars": 788
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -561,7 +596,8 @@
             "owner": "wangel13",
             "repo": "prisma-next-auth-graphql-starter",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -576,7 +612,8 @@
             "owner": "clayrisser",
             "repo": "nestjs-crud-prisma",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         },
         {
           "node_type": "item",
@@ -591,14 +628,15 @@
             "owner": "AustinGil",
             "repo": "npm",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:34:42.416Z"
         }
       ],
       "title": ":space_invader: Projects Using Prisma"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:58:47.530Z",
+    "last_updated": "2026-08-29T00:34:42.416Z",
     "original_repository_info": {
       "archived": false,
       "id": 147172706,
