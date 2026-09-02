@@ -682,7 +682,7 @@
                 "open_issues": 35,
                 "owner": "mohammed-bahumaish",
                 "repo": "prisma-editor",
-                "stars": 1036,
+                "stars": 1037,
                 "topics": [
                   "cockroachdb",
                   "database",
@@ -715,7 +715,7 @@
                 "open_issues": 9,
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
-                "stars": 1032,
+                "stars": 1033,
                 "topics": [
                   "entity-relationship-diagram",
                   "hacktoberfest",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-01T14:01:19Z",
-            "open_issues": 1424,
+            "open_issues": 1428,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48078,
+            "stars": 48107,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:06:02Z",
-            "open_issues": 835,
+            "last_commit": "2026-09-01T22:01:17Z",
+            "open_issues": 833,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18716,
+            "stars": 18718,
             "topics": [
               "javascript",
               "node",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:25:38.032Z",
+    "last_updated": "2026-09-02T19:24:31.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
