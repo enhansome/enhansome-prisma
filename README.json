@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-04T15:00:50Z",
+            "last_commit": "2026-09-04T22:22:18Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -147,7 +147,7 @@
             "id": 510493496,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:53:59Z",
+            "last_commit": "2026-09-04T19:02:09Z",
             "open_issues": 41,
             "owner": "morintd",
             "repo": "prismock",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-04T10:10:06Z",
-            "open_issues": 1426,
+            "open_issues": 1428,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48145,
+            "stars": 48183,
             "topics": [
               "next-auth",
               "nextjs",
@@ -873,7 +873,7 @@
             "open_issues": 834,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18722,
+            "stars": 18724,
             "topics": [
               "javascript",
               "node",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:00:26.039Z",
+    "last_updated": "2026-09-05T18:22:08.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
