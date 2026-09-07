@@ -147,7 +147,7 @@
             "id": 510493496,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T19:02:09Z",
+            "last_commit": "2026-09-07T18:31:47Z",
             "open_issues": 41,
             "owner": "morintd",
             "repo": "prismock",
@@ -742,7 +742,7 @@
                 "open_issues": 21,
                 "owner": "notiz-dev",
                 "repo": "prisma-dbml-generator",
-                "stars": 740,
+                "stars": 739,
                 "topics": [
                   "dbml",
                   "prisma"
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-06T08:33:49Z",
-            "open_issues": 1427,
+            "open_issues": 1430,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48210,
+            "stars": 48262,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T15:37:51Z",
+            "last_commit": "2026-09-07T19:36:26Z",
             "open_issues": 834,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18724,
+            "stars": 18726,
             "topics": [
               "javascript",
               "node",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:23:12.482Z",
+    "last_updated": "2026-09-07T20:00:01.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
