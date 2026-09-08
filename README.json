@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-04T22:22:18Z",
+            "last_commit": "2026-09-07T23:08:32Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -682,7 +682,7 @@
                 "open_issues": 35,
                 "owner": "mohammed-bahumaish",
                 "repo": "prisma-editor",
-                "stars": 1037,
+                "stars": 1036,
                 "topics": [
                   "cockroachdb",
                   "database",
@@ -836,11 +836,11 @@
             "id": 350360184,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T08:33:49Z",
-            "open_issues": 1430,
+            "last_commit": "2026-09-07T20:35:46Z",
+            "open_issues": 1434,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48262,
+            "stars": 48287,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,8 +869,8 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T19:36:26Z",
-            "open_issues": 834,
+            "last_commit": "2026-09-08T17:34:22Z",
+            "open_issues": 841,
             "owner": "wasp-lang",
             "repo": "wasp",
             "stars": 18726,
@@ -902,7 +902,7 @@
             "open_issues": 45,
             "owner": "poulainv",
             "repo": "tottem",
-            "stars": 974,
+            "stars": 975,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:42.416Z"
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:00:01.376Z",
+    "last_updated": "2026-09-08T19:27:37.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
