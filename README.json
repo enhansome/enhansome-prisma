@@ -95,7 +95,7 @@
             "open_issues": 9,
             "owner": "Asjas",
             "repo": "prisma-redis-middleware",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "caching",
               "prisma",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-12T06:43:19Z",
-            "open_issues": 1427,
+            "open_issues": 1426,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48403,
+            "stars": 48430,
             "topics": [
               "next-auth",
               "nextjs",
@@ -870,10 +870,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-12T09:37:59Z",
-            "open_issues": 843,
+            "open_issues": 841,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18732,
+            "stars": 18733,
             "topics": [
               "javascript",
               "node",
@@ -919,7 +919,7 @@
             "id": 373524663,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-12T14:37:56Z",
+            "last_commit": "2026-09-12T21:23:48Z",
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:27:49.056Z",
+    "last_updated": "2026-09-13T18:50:07.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
