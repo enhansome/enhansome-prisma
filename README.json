@@ -47,7 +47,7 @@
             "open_issues": 21,
             "owner": "ridafkih",
             "repo": "schemix",
-            "stars": 480,
+            "stars": 479,
             "topics": [
               "orm",
               "prisma"
@@ -71,7 +71,7 @@
             "open_issues": 49,
             "owner": "Errorname",
             "repo": "prisma-multi-tenant",
-            "stars": 400,
+            "stars": 399,
             "topics": [
               "multi-tenant",
               "prisma"
@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-15T13:16:30Z",
+            "last_commit": "2026-09-16T10:09:44Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -147,7 +147,7 @@
             "id": 510493496,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T19:14:55Z",
+            "last_commit": "2026-09-16T15:54:43Z",
             "open_issues": 41,
             "owner": "morintd",
             "repo": "prismock",
@@ -177,7 +177,7 @@
             "open_issues": 4,
             "owner": "avocadowastaken",
             "repo": "prettier-plugin-prisma",
-            "stars": 230,
+            "stars": 229,
             "topics": [
               "prettier-plugin",
               "prisma"
@@ -711,8 +711,8 @@
                 "id": 378040635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T03:22:33Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-15T20:08:43Z",
+                "open_issues": 4,
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
                 "stars": 1033,
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-14T08:35:10Z",
-            "open_issues": 1412,
+            "open_issues": 1406,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48490,
+            "stars": 48509,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T17:50:15Z",
-            "open_issues": 836,
+            "last_commit": "2026-09-16T19:27:01Z",
+            "open_issues": 838,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18734,
+            "stars": 18733,
             "topics": [
               "javascript",
               "node",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:43:12.436Z",
+    "last_updated": "2026-09-16T19:35:24.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
