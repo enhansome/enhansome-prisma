@@ -636,7 +636,7 @@
                 "open_issues": 250,
                 "owner": "RobertCraigie",
                 "repo": "prisma-client-py",
-                "stars": 2095,
+                "stars": 2094,
                 "topics": [
                   "asyncio",
                   "database",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-14T08:35:10Z",
-            "open_issues": 1406,
+            "open_issues": 1410,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48509,
+            "stars": 48529,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T19:27:01Z",
-            "open_issues": 838,
+            "last_commit": "2026-09-17T15:49:15Z",
+            "open_issues": 837,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18733,
+            "stars": 18734,
             "topics": [
               "javascript",
               "node",
@@ -919,7 +919,7 @@
             "id": 373524663,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-12T21:23:48Z",
+            "last_commit": "2026-09-17T08:06:32Z",
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:35:24.880Z",
+    "last_updated": "2026-09-17T19:45:12.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
