@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-18T21:07:48Z",
+            "last_commit": "2026-09-23T17:15:03Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -147,7 +147,7 @@
             "id": 510493496,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T23:41:25Z",
+            "last_commit": "2026-09-23T10:30:35Z",
             "open_issues": 41,
             "owner": "morintd",
             "repo": "prismock",
@@ -265,7 +265,7 @@
             "license": "LGPL-3.0",
             "last_commit": "2025-05-26T21:48:48Z",
             "open_issues": 1,
-            "owner": "BemiHQ",
+            "owner": "pgstack-io",
             "repo": "bemi-prisma",
             "stars": 114,
             "topics": [
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-20T08:42:15Z",
-            "open_issues": 1431,
+            "open_issues": 1428,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48615,
+            "stars": 48626,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T16:19:31Z",
-            "open_issues": 847,
+            "last_commit": "2026-09-23T19:18:13Z",
+            "open_issues": 849,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18739,
+            "stars": 18744,
             "topics": [
               "javascript",
               "node",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:46:11.761Z",
+    "last_updated": "2026-09-23T19:42:29.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
