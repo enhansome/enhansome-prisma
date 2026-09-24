@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-20T08:42:15Z",
-            "open_issues": 1428,
+            "open_issues": 1424,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48626,
+            "stars": 48638,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T19:18:13Z",
-            "open_issues": 849,
+            "last_commit": "2026-09-24T15:33:16Z",
+            "open_issues": 844,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18744,
+            "stars": 18747,
             "topics": [
               "javascript",
               "node",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:42:29.466Z",
+    "last_updated": "2026-09-24T20:01:08.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
