@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "pantharshit00",
             "repo": "prisma-docs-generator",
-            "stars": 625,
+            "stars": 624,
             "topics": [
               "code-generation",
               "hacktoberfest",
@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-25T02:05:55Z",
+            "last_commit": "2026-09-29T05:59:39Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-26T07:48:40Z",
-            "open_issues": 1444,
+            "open_issues": 1456,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48714,
+            "stars": 48735,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,7 +869,7 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T20:27:06Z",
+            "last_commit": "2026-09-29T15:48:37Z",
             "open_issues": 840,
             "owner": "wasp-lang",
             "repo": "wasp",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:07:07.180Z",
+    "last_updated": "2026-09-29T20:52:46.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
