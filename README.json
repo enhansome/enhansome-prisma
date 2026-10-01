@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-29T05:59:39Z",
+            "last_commit": "2026-10-01T04:32:59Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -636,7 +636,7 @@
                 "open_issues": 250,
                 "owner": "RobertCraigie",
                 "repo": "prisma-client-py",
-                "stars": 2092,
+                "stars": 2093,
                 "topics": [
                   "asyncio",
                   "database",
@@ -668,6 +668,33 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Prisma ERD Generator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generate an ER Diagram based on your Prisma schema every time you run npx prisma generate",
+                "homepage": "https://www.npmjs.com/package/prisma-erd-generator",
+                "id": 378040635,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-15T20:08:43Z",
+                "open_issues": 4,
+                "owner": "keonik",
+                "repo": "prisma-erd-generator",
+                "stars": 1035,
+                "topics": [
+                  "entity-relationship-diagram",
+                  "hacktoberfest",
+                  "mermaid",
+                  "prisma",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T00:34:42.416Z"
+            },
+            {
+              "node_type": "item",
               "title": "Prisma Editor - A powerful tool to visualize and edit Prisma Schema",
               "description": null,
               "children": [],
@@ -695,33 +722,6 @@
                   "prisma",
                   "prisma-schema",
                   "schema"
-                ]
-              },
-              "first_seen": "2026-08-29T00:34:42.416Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Prisma ERD Generator",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Generate an ER Diagram based on your Prisma schema every time you run npx prisma generate",
-                "homepage": "https://www.npmjs.com/package/prisma-erd-generator",
-                "id": 378040635,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-15T20:08:43Z",
-                "open_issues": 4,
-                "owner": "keonik",
-                "repo": "prisma-erd-generator",
-                "stars": 1034,
-                "topics": [
-                  "entity-relationship-diagram",
-                  "hacktoberfest",
-                  "mermaid",
-                  "prisma",
-                  "typescript"
                 ]
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
@@ -766,7 +766,7 @@
                 "open_issues": 3,
                 "owner": "samchon",
                 "repo": "prisma-markdown",
-                "stars": 528,
+                "stars": 529,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-26T07:48:40Z",
-            "open_issues": 1457,
+            "open_issues": 1453,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48778,
+            "stars": 48799,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T20:07:58Z",
-            "open_issues": 839,
+            "last_commit": "2026-10-01T15:22:35Z",
+            "open_issues": 836,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18753,
+            "stars": 18754,
             "topics": [
               "javascript",
               "node",
@@ -919,7 +919,7 @@
             "id": 373524663,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-28T19:19:44Z",
+            "last_commit": "2026-10-01T20:11:19Z",
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:51:07.429Z",
+    "last_updated": "2026-10-01T21:04:13.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
