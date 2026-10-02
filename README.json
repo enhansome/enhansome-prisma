@@ -766,7 +766,7 @@
                 "open_issues": 3,
                 "owner": "samchon",
                 "repo": "prisma-markdown",
-                "stars": 529,
+                "stars": 528,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:42.416Z"
@@ -840,7 +840,7 @@
             "open_issues": 1453,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48799,
+            "stars": 48820,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:22:35Z",
-            "open_issues": 836,
+            "last_commit": "2026-10-02T12:58:55Z",
+            "open_issues": 837,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18754,
+            "stars": 18750,
             "topics": [
               "javascript",
               "node",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:04:13.366Z",
+    "last_updated": "2026-10-02T20:47:52.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
