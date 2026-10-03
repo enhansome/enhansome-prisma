@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Documentation Generator",
-          "description": null,
+          "description": "pantharshit00/prisma-docs-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Schemix - Generate Prisma Schemas with TypeScript",
-          "description": null,
+          "description": "ridafkih/schemix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -58,7 +58,7 @@
         {
           "node_type": "item",
           "title": "Multi-tenancy with Prisma",
-          "description": null,
+          "description": "Errorname/prisma-multi-tenant",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -82,7 +82,7 @@
         {
           "node_type": "item",
           "title": "Prisma Redis Middleware - cache queries in Redis",
-          "description": null,
+          "description": "Asjas/prisma-redis-middleware",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -108,7 +108,7 @@
         {
           "node_type": "item",
           "title": "prisma-relay-cursor-connection",
-          "description": null,
+          "description": "devoxa/prisma-relay-cursor-connection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-01T04:32:59Z",
+            "last_commit": "2026-10-02T21:57:12Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "Prismock - Run tests in isolation with an in-memory implementation of Prisma",
-          "description": null,
+          "description": "morintd/prismock",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -164,7 +164,7 @@
         {
           "node_type": "item",
           "title": "prettier-plugin-prisma",
-          "description": null,
+          "description": "avocadowastaken/prettier-plugin-prisma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -188,7 +188,7 @@
         {
           "node_type": "item",
           "title": "prisma-ast - A Builder object to programmatically query and edit your schema.prisma files",
-          "description": null,
+          "description": "MrLeebo/prisma-ast",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,7 +220,7 @@
         {
           "node_type": "item",
           "title": "NestJS and Prisma Yarn Monorepo Starter Template",
-          "description": null,
+          "description": "overnested/nestjs-prisma-monorepo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -254,7 +254,7 @@
         {
           "node_type": "item",
           "title": "Prisma Audit Trails",
-          "description": null,
+          "description": "pgstack-io/bemi-prisma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,7 +281,7 @@
         {
           "node_type": "item",
           "title": "Prisma Schema SDL",
-          "description": null,
+          "description": "amplication/prisma-schema-dsl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Testing Prisma with PostgreSQL and Jest",
-          "description": null,
+          "description": "ctrlplusb/prisma-pg-jest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -329,7 +329,7 @@
         {
           "node_type": "item",
           "title": "Caching Prisma",
-          "description": null,
+          "description": "JoelLefkowitz/cached-prisma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,7 +356,7 @@
         {
           "node_type": "item",
           "title": "Declarative Authorisation Middleware",
-          "description": null,
+          "description": "joindeed/prisma-auth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +377,7 @@
         {
           "node_type": "item",
           "title": "Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema",
-          "description": null,
+          "description": "omar-dulaimi/prisma-yup-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -403,7 +403,7 @@
         {
           "node_type": "item",
           "title": "Prisma plugin for the IntelliJ Platform",
-          "description": null,
+          "description": "gabrielcolson/intellij-prisma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +424,7 @@
         {
           "node_type": "item",
           "title": "Schematics to add Prisma support to a NestJS application",
-          "description": null,
+          "description": "marcjulian/nestjs-prisma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -448,7 +448,7 @@
         {
           "node_type": "item",
           "title": "Prisma Schema Sorter - sort schema models, enums, generators and datasources",
-          "description": null,
+          "description": "omar-dulaimi/prisma-schema-sorter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -473,7 +473,7 @@
         {
           "node_type": "item",
           "title": "Starter Template for NestJS and Prisma",
-          "description": null,
+          "description": "fivethree-team/nestjs-prisma-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -494,7 +494,7 @@
         {
           "node_type": "item",
           "title": "Prisma 2 Scratchpad",
-          "description": null,
+          "description": "ctrlplusb/prisma2-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,7 +515,7 @@
         {
           "node_type": "item",
           "title": "Gatsby with prisma-client",
-          "description": null,
+          "description": "lekoarts-demos/gatsby-with-prisma-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -541,7 +541,7 @@
         {
           "node_type": "item",
           "title": "prisma-sequelize-generator",
-          "description": null,
+          "description": "floydspace/prisma-sequelize-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -572,7 +572,7 @@
         {
           "node_type": "item",
           "title": "nx-nest-graphql",
-          "description": null,
+          "description": "beeman/nx-nest-graphql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,7 +593,7 @@
         {
           "node_type": "item",
           "title": "prisma-query-formatter - Substitute params and format queries for logging",
-          "description": null,
+          "description": "s1owjke/prisma-query-formatter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -623,7 +623,7 @@
             {
               "node_type": "item",
               "title": "Prisma Client Python",
-              "description": null,
+              "description": "RobertCraigie/prisma-client-py",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -669,7 +669,7 @@
             {
               "node_type": "item",
               "title": "Prisma ERD Generator",
-              "description": null,
+              "description": "keonik/prisma-erd-generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -696,7 +696,7 @@
             {
               "node_type": "item",
               "title": "Prisma Editor - A powerful tool to visualize and edit Prisma Schema",
-              "description": null,
+              "description": "mohammed-bahumaish/prisma-editor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +729,7 @@
             {
               "node_type": "item",
               "title": "DBML Generator",
-              "description": null,
+              "description": "notiz-dev/prisma-dbml-generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -753,7 +753,7 @@
             {
               "node_type": "item",
               "title": "- Markdown generator, including ERD and descriptions",
-              "description": null,
+              "description": "samchon/prisma-markdown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -774,7 +774,7 @@
             {
               "node_type": "item",
               "title": "Prisma ERD Visualizer",
-              "description": null,
+              "description": "Skn0tt/prisma-erd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -795,7 +795,7 @@
             {
               "node_type": "item",
               "title": "prisma-uml",
-              "description": null,
+              "description": "emyann/prisma-uml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -827,7 +827,7 @@
         {
           "node_type": "item",
           "title": "Calendso",
-          "description": null,
+          "description": "calcom/cal.diy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -840,7 +840,7 @@
             "open_issues": 1453,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48820,
+            "stars": 48831,
             "topics": [
               "next-auth",
               "nextjs",
@@ -873,7 +873,7 @@
             "open_issues": 837,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18750,
+            "stars": 18752,
             "topics": [
               "javascript",
               "node",
@@ -889,7 +889,7 @@
         {
           "node_type": "item",
           "title": "Tottem",
-          "description": null,
+          "description": "poulainv/tottem",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -978,7 +978,7 @@
         {
           "node_type": "item",
           "title": "Neighborhood Pet Manager",
-          "description": null,
+          "description": "AustinGil/npm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:47:52.992Z",
+    "last_updated": "2026-10-03T05:01:31.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
