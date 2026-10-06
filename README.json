@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "pantharshit00",
             "repo": "prisma-docs-generator",
-            "stars": 624,
+            "stars": 623,
             "topics": [
               "code-generation",
               "hacktoberfest",
@@ -201,7 +201,7 @@
             "open_issues": 0,
             "owner": "MrLeebo",
             "repo": "prisma-ast",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "abstract-syntax-tree",
               "ast",
@@ -682,7 +682,7 @@
                 "open_issues": 4,
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
-                "stars": 1034,
+                "stars": 1035,
                 "topics": [
                   "entity-relationship-diagram",
                   "hacktoberfest",
@@ -709,7 +709,7 @@
                 "open_issues": 33,
                 "owner": "mohammed-bahumaish",
                 "repo": "prisma-editor",
-                "stars": 1034,
+                "stars": 1035,
                 "topics": [
                   "cockroachdb",
                   "database",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-26T07:48:40Z",
-            "open_issues": 1473,
+            "open_issues": 1478,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48884,
+            "stars": 48895,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:14:56Z",
-            "open_issues": 846,
+            "last_commit": "2026-10-06T15:50:17Z",
+            "open_issues": 856,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18757,
+            "stars": 18759,
             "topics": [
               "javascript",
               "node",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:21:11.182Z",
+    "last_updated": "2026-10-06T21:02:07.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
