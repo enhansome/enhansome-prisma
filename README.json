@@ -682,7 +682,7 @@
                 "open_issues": 4,
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": [
                   "entity-relationship-diagram",
                   "hacktoberfest",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-26T07:48:40Z",
-            "open_issues": 1481,
+            "open_issues": 1491,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48910,
+            "stars": 48919,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T20:26:01Z",
-            "open_issues": 860,
+            "last_commit": "2026-10-08T16:52:10Z",
+            "open_issues": 855,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18761,
+            "stars": 18764,
             "topics": [
               "javascript",
               "node",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:20:54.500Z",
+    "last_updated": "2026-10-08T21:22:37.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
