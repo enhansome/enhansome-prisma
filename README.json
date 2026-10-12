@@ -709,7 +709,7 @@
                 "open_issues": 33,
                 "owner": "mohammed-bahumaish",
                 "repo": "prisma-editor",
-                "stars": 1035,
+                "stars": 1034,
                 "topics": [
                   "cockroachdb",
                   "database",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-26T07:48:40Z",
-            "open_issues": 1501,
+            "open_issues": 1504,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48953,
+            "stars": 48971,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,8 +869,8 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T17:30:13Z",
-            "open_issues": 851,
+            "last_commit": "2026-10-12T20:58:27Z",
+            "open_issues": 849,
             "owner": "wasp-lang",
             "repo": "wasp",
             "stars": 18763,
@@ -919,7 +919,7 @@
             "id": 373524663,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-10T09:03:27Z",
+            "last_commit": "2026-10-11T22:17:27Z",
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:21:41.127Z",
+    "last_updated": "2026-10-12T23:02:27.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
