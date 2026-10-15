@@ -26,7 +26,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 ## :books: Docs
 
 * [Prisma Docs](https://www.prisma.io/docs/)
-* [Prisma Examples](https://github.com/prisma/prisma-examples) ⭐ 6,651 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-14
+* [Prisma Examples](https://github.com/prisma/prisma-examples) ⭐ 6,651 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-15
 
 ## :studio\_microphone: Events
 
@@ -36,11 +36,11 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :safety\_vest: Community Prisma Tools
 
-* [Documentation Generator](https://github.com/pantharshit00/prisma-docs-generator) ⭐ 623 | 🐛 20 | 🌐 TypeScript | 📅 2024-03-20
+* [Documentation Generator](https://github.com/pantharshit00/prisma-docs-generator) ⭐ 622 | 🐛 20 | 🌐 TypeScript | 📅 2024-03-20
 * [Schemix - Generate Prisma Schemas with TypeScript](https://github.com/ridafkih/schemix) ⭐ 480 | 🐛 21 | 🌐 TypeScript | 📅 2024-01-16
 * [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant) ⚠️ Archived
 * [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware) ⚠️ Archived
-* [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) ⭐ 272 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-13
+* [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) ⭐ 272 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-15
 * [Prismock - Run tests in isolation with an in-memory implementation of Prisma](https://github.com/morintd/prismock) ⭐ 267 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-13
 * [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma) ⭐ 229 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-25
 * [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files](https://github.com/MrLeebo/prisma-ast) ⭐ 166 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-08
@@ -119,7 +119,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :family\_man\_woman\_girl\_boy: Community
 
-* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,693 | 🐛 2,757 | 🌐 TypeScript | 📅 2026-10-14
+* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,692 | 🐛 2,757 | 🌐 TypeScript | 📅 2026-10-15
 * [Website](https://prisma.io)
 * [Docs](https://prisma.io/docs/)
 * [Blog](https://prisma.io/blog)
@@ -128,9 +128,9 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :space\_invader: Projects Using Prisma
 
-* [Calendso](https://github.com/calendso/calendso) ⭐ 48,998 | 🐛 1,509 | 🌐 TypeScript | 📅 2026-09-26
-* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,769 | 🐛 842 | 🌐 TypeScript | 📅 2026-10-14 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
-* [Tottem](https://github.com/poulainv/tottem) ⭐ 974 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24
+* [Calendso](https://github.com/calendso/calendso) ⭐ 49,022 | 🐛 1,510 | 🌐 TypeScript | 📅 2026-09-26
+* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,770 | 🐛 838 | 🌐 TypeScript | 📅 2026-10-15 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+* [Tottem](https://github.com/poulainv/tottem) ⭐ 973 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24
 * [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) ⭐ 789 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-11 - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 * [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) ⭐ 76 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-21 - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
 * [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) ⚠️ Archived - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud) ⭐ 4,321 | 🐛 290 | 🌐 TypeScript | 📅 2026-10-13)
@@ -157,4 +157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
