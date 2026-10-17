@@ -78,7 +78,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * [Prisma ERD Generator](https://github.com/keonik/prisma-erd-generator) ⭐ 1,036 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-15
 * [Prisma Editor - A powerful tool to visualize and edit Prisma Schema](https://github.com/mohammed-bahumaish/prisma-editor) ⭐ 1,034 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-09
 * [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator) ⭐ 740 | 🐛 21 | 🌐 TypeScript | 📅 2024-02-15
-* [`prisma-markdown` - Markdown generator, including ERD and descriptions](https://github.com/samchon/prisma-markdown) ⭐ 528 | 🐛 3 | 🌐 TypeScript | 📅 2026-06-09
+* [`prisma-markdown` - Markdown generator, including ERD and descriptions](https://github.com/samchon/prisma-markdown) ⭐ 529 | 🐛 3 | 🌐 TypeScript | 📅 2026-06-09
 * [Prisma ERD Visualizer](https://github.com/skn0tt/prisma-erd) ⭐ 357 | 🐛 5 | 🌐 HTML | 📅 2023-12-15
 * [prisma-uml](https://github.com/emyann/prisma-uml) ⭐ 123 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-12
 * [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.app/)
@@ -119,7 +119,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :family\_man\_woman\_girl\_boy: Community
 
-* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,695 | 🐛 2,767 | 🌐 TypeScript | 📅 2026-10-16
+* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,696 | 🐛 2,771 | 🌐 TypeScript | 📅 2026-10-16
 * [Website](https://prisma.io)
 * [Docs](https://prisma.io/docs/)
 * [Blog](https://prisma.io/blog)
@@ -128,10 +128,10 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :space\_invader: Projects Using Prisma
 
-* [Calendso](https://github.com/calendso/calendso) ⭐ 49,075 | 🐛 1,515 | 🌐 TypeScript | 📅 2026-09-26
-* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,771 | 🐛 838 | 🌐 TypeScript | 📅 2026-10-16 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
-* [Tottem](https://github.com/poulainv/tottem) ⭐ 973 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24
-* [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) ⭐ 789 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-11 - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
+* [Calendso](https://github.com/calendso/calendso) ⭐ 49,109 | 🐛 1,515 | 🌐 TypeScript | 📅 2026-09-26
+* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,774 | 🐛 838 | 🌐 TypeScript | 📅 2026-10-16 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+* [Tottem](https://github.com/poulainv/tottem) ⭐ 972 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24
+* [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) ⭐ 788 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-17 - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 * [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) ⭐ 76 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-21 - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
 * [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) ⚠️ Archived - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud) ⭐ 4,321 | 🐛 290 | 🌐 TypeScript | 📅 2026-10-13)
 * [Neighborhood Pet Manager](https://github.com/AustinGil/npm) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-11
@@ -157,4 +157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
