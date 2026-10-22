@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-21T20:07:34Z",
+            "last_commit": "2026-10-22T16:31:39Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -173,7 +173,7 @@
             "id": 334474090,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T10:01:17Z",
+            "last_commit": "2026-10-22T11:08:09Z",
             "open_issues": 4,
             "owner": "avocadowastaken",
             "repo": "prettier-plugin-prisma",
@@ -267,7 +267,7 @@
             "open_issues": 1,
             "owner": "pgstack-io",
             "repo": "bemi-prisma",
-            "stars": 114,
+            "stars": 113,
             "topics": [
               "audit-log",
               "audit-trail",
@@ -869,8 +869,8 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T20:05:45Z",
-            "open_issues": 836,
+            "last_commit": "2026-10-22T17:33:32Z",
+            "open_issues": 838,
             "owner": "wasp-lang",
             "repo": "wasp",
             "stars": 18781,
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:13:15.851Z",
+    "last_updated": "2026-10-22T20:11:40.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",

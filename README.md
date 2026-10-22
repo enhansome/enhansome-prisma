@@ -26,7 +26,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 ## :books: Docs
 
 * [Prisma Docs](https://www.prisma.io/docs/)
-* [Prisma Examples](https://github.com/prisma/prisma-examples) ⭐ 6,652 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-21
+* [Prisma Examples](https://github.com/prisma/prisma-examples) ⭐ 6,652 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-21
 
 ## :studio\_microphone: Events
 
@@ -40,12 +40,12 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * [Schemix - Generate Prisma Schemas with TypeScript](https://github.com/ridafkih/schemix) ⭐ 480 | 🐛 21 | 🌐 TypeScript | 📅 2024-01-16
 * [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant) ⚠️ Archived
 * [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware) ⚠️ Archived
-* [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) ⭐ 272 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-21
+* [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) ⭐ 272 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-22
 * [Prismock - Run tests in isolation with an in-memory implementation of Prisma](https://github.com/morintd/prismock) ⭐ 267 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-20
-* [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma) ⭐ 229 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-25
+* [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma) ⭐ 229 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-22
 * [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files](https://github.com/MrLeebo/prisma-ast) ⭐ 166 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-08
 * [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo) ⚠️ Archived
-* [Prisma Audit Trails](https://github.com/BemiHQ/bemi-prisma) ⭐ 114 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-26
+* [Prisma Audit Trails](https://github.com/BemiHQ/bemi-prisma) ⭐ 113 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-26
 * [Prisma Schema SDL](https://github.com/amplication/prisma-schema-dsl) ⭐ 113 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-24
 * [Testing Prisma with PostgreSQL and Jest](https://github.com/ctrlplusb/prisma-pg-jest) ⭐ 101 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-06
 * [Caching Prisma](https://github.com/joellefkowitz/cached-prisma) ⭐ 89 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-20
@@ -119,7 +119,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :family\_man\_woman\_girl\_boy: Community
 
-* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,682 | 🐛 2,794 | 🌐 TypeScript | 📅 2026-10-21
+* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,672 | 🐛 2,799 | 🌐 TypeScript | 📅 2026-10-22
 * [Website](https://prisma.io)
 * [Docs](https://prisma.io/docs/)
 * [Blog](https://prisma.io/blog)
@@ -129,7 +129,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 ## :space\_invader: Projects Using Prisma
 
 * [Calendso](https://github.com/calendso/calendso) ⭐ 49,207 | 🐛 1,520 | 🌐 TypeScript | 📅 2026-10-19
-* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,781 | 🐛 836 | 🌐 TypeScript | 📅 2026-10-21 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,781 | 🐛 838 | 🌐 TypeScript | 📅 2026-10-22 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 * [Tottem](https://github.com/poulainv/tottem) ⭐ 972 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24
 * [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) ⭐ 788 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-20 - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 * [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) ⭐ 76 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-21 - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
@@ -157,4 +157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
