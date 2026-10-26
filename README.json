@@ -147,11 +147,11 @@
             "id": 510493496,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T11:30:17Z",
+            "last_commit": "2026-10-26T18:15:39Z",
             "open_issues": 42,
             "owner": "morintd",
             "repo": "prismock",
-            "stars": 267,
+            "stars": 266,
             "topics": [
               "prisma",
               "testing",
@@ -742,7 +742,7 @@
                 "open_issues": 21,
                 "owner": "notiz-dev",
                 "repo": "prisma-dbml-generator",
-                "stars": 740,
+                "stars": 741,
                 "topics": [
                   "dbml",
                   "prisma"
@@ -836,11 +836,11 @@
             "id": 350360184,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T18:46:00Z",
-            "open_issues": 1539,
+            "last_commit": "2026-10-26T06:15:27Z",
+            "open_issues": 1551,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 49349,
+            "stars": 49402,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T20:23:31Z",
-            "open_issues": 842,
+            "last_commit": "2026-10-26T20:53:10Z",
+            "open_issues": 838,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18788,
+            "stars": 18790,
             "topics": [
               "javascript",
               "node",
@@ -919,7 +919,7 @@
             "id": 373524663,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-25T02:22:03Z",
+            "last_commit": "2026-10-26T17:04:56Z",
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:06:18.570Z",
+    "last_updated": "2026-10-26T21:03:54.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
@@ -1022,7 +1022,7 @@
       "open_issues": 16,
       "owner": "catalinmiron",
       "repo": "awesome-prisma",
-      "stars": 661,
+      "stars": 662,
       "topics": [
         "awesome",
         "awesome-list",
