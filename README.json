@@ -95,7 +95,7 @@
             "open_issues": 9,
             "owner": "Asjas",
             "repo": "prisma-redis-middleware",
-            "stars": 364,
+            "stars": 361,
             "topics": [
               "caching",
               "prisma",
@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-30T17:49:55Z",
+            "last_commit": "2026-10-31T04:21:26Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -709,7 +709,7 @@
                 "open_issues": 33,
                 "owner": "mohammed-bahumaish",
                 "repo": "prisma-editor",
-                "stars": 1033,
+                "stars": 1034,
                 "topics": [
                   "cockroachdb",
                   "database",
@@ -840,7 +840,7 @@
             "open_issues": 1586,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 49557,
+            "stars": 49589,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T20:49:41Z",
-            "open_issues": 829,
+            "last_commit": "2026-10-31T18:52:33Z",
+            "open_issues": 836,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18793,
+            "stars": 18794,
             "topics": [
               "javascript",
               "node",
@@ -919,7 +919,7 @@
             "id": 373524663,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-28T23:20:08Z",
+            "last_commit": "2026-10-31T19:31:20Z",
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:52:12.656Z",
+    "last_updated": "2026-10-31T20:01:44.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
