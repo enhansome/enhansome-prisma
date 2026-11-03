@@ -575,7 +575,7 @@
           "description": "beeman/nx-nest-graphql",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "NX Workspace + Nest and GraphQL Starter repo ",
             "homepage": null,
             "id": 259492963,
@@ -709,7 +709,7 @@
                 "open_issues": 33,
                 "owner": "mohammed-bahumaish",
                 "repo": "prisma-editor",
-                "stars": 1034,
+                "stars": 1033,
                 "topics": [
                   "cockroachdb",
                   "database",
@@ -836,11 +836,11 @@
             "id": 350360184,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T07:09:20Z",
-            "open_issues": 1597,
+            "last_commit": "2026-11-03T21:35:09Z",
+            "open_issues": 1595,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 49653,
+            "stars": 49670,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T21:12:38Z",
-            "open_issues": 819,
+            "last_commit": "2026-11-03T21:03:17Z",
+            "open_issues": 825,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18794,
+            "stars": 18792,
             "topics": [
               "javascript",
               "node",
@@ -919,7 +919,7 @@
             "id": 373524663,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-02T22:52:37Z",
+            "last_commit": "2026-11-03T20:31:45Z",
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:36:14.421Z",
+    "last_updated": "2026-11-03T21:49:23.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
