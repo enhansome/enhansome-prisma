@@ -47,7 +47,7 @@
             "open_issues": 21,
             "owner": "ridafkih",
             "repo": "schemix",
-            "stars": 480,
+            "stars": 479,
             "topics": [
               "orm",
               "prisma"
@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-02T21:32:32Z",
+            "last_commit": "2026-11-05T21:27:28Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -147,7 +147,7 @@
             "id": 510493496,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T19:02:48Z",
+            "last_commit": "2026-11-05T21:02:28Z",
             "open_issues": 42,
             "owner": "morintd",
             "repo": "prismock",
@@ -682,7 +682,7 @@
                 "open_issues": 9,
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
-                "stars": 1035,
+                "stars": 1034,
                 "topics": [
                   "entity-relationship-diagram",
                   "hacktoberfest",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-03T21:35:09Z",
-            "open_issues": 1602,
+            "open_issues": 1605,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 49686,
+            "stars": 49720,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T19:43:09Z",
+            "last_commit": "2026-11-05T17:19:59Z",
             "open_issues": 831,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18794,
+            "stars": 18795,
             "topics": [
               "javascript",
               "node",
@@ -919,7 +919,7 @@
             "id": 373524663,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-04T21:29:17Z",
+            "last_commit": "2026-11-05T21:52:34Z",
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:56:53.779Z",
+    "last_updated": "2026-11-05T22:05:46.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
