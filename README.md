@@ -42,7 +42,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware) ⚠️ Archived
 * [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) ⭐ 272 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-05
 * [Prismock - Run tests in isolation with an in-memory implementation of Prisma](https://github.com/morintd/prismock) ⭐ 266 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-05
-* [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma) ⭐ 229 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-22
+* [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma) ⭐ 230 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-22
 * [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files](https://github.com/MrLeebo/prisma-ast) ⭐ 166 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-08
 * [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo) ⚠️ Archived
 * [Prisma Audit Trails](https://github.com/BemiHQ/bemi-prisma) ⭐ 113 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-26
@@ -119,7 +119,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :family\_man\_woman\_girl\_boy: Community
 
-* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,658 | 🐛 2,839 | 🌐 TypeScript | 📅 2026-11-06
+* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,658 | 🐛 2,840 | 🌐 TypeScript | 📅 2026-11-06
 * [Website](https://prisma.io)
 * [Docs](https://prisma.io/docs/)
 * [Blog](https://prisma.io/blog)
@@ -128,8 +128,8 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :space\_invader: Projects Using Prisma
 
-* [Calendso](https://github.com/calendso/calendso) ⭐ 49,753 | 🐛 1,606 | 🌐 TypeScript | 📅 2026-11-03
-* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,794 | 🐛 845 | 🌐 TypeScript | 📅 2026-11-06 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+* [Calendso](https://github.com/calendso/calendso) ⭐ 49,774 | 🐛 1,603 | 🌐 TypeScript | 📅 2026-11-03
+* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,795 | 🐛 847 | 🌐 TypeScript | 📅 2026-11-07 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 * [Tottem](https://github.com/poulainv/tottem) ⭐ 972 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24
 * [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) ⭐ 788 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-06 - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 * [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) ⭐ 76 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-21 - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
@@ -157,4 +157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
