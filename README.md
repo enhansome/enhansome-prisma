@@ -26,7 +26,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 ## :books: Docs
 
 * [Prisma Docs](https://www.prisma.io/docs/)
-* [Prisma Examples](https://github.com/prisma/prisma-examples) ⭐ 6,651 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-14
+* [Prisma Examples](https://github.com/prisma/prisma-examples) ⭐ 6,651 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-17
 
 ## :studio\_microphone: Events
 
@@ -40,12 +40,12 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * [Schemix - Generate Prisma Schemas with TypeScript](https://github.com/ridafkih/schemix) ⭐ 480 | 🐛 21 | 🌐 TypeScript | 📅 2024-01-16
 * [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant) ⚠️ Archived
 * [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware) ⚠️ Archived
-* [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) ⭐ 272 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-14
-* [Prismock - Run tests in isolation with an in-memory implementation of Prisma](https://github.com/morintd/prismock) ⭐ 266 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-13
+* [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) ⭐ 272 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-16
+* [Prismock - Run tests in isolation with an in-memory implementation of Prisma](https://github.com/morintd/prismock) ⭐ 266 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-16
 * [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma) ⭐ 230 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-22
 * [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files](https://github.com/MrLeebo/prisma-ast) ⭐ 166 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-08
 * [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo) ⚠️ Archived
-* [Prisma Audit Trails](https://github.com/BemiHQ/bemi-prisma) ⭐ 113 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-26
+* [Prisma Audit Trails](https://github.com/BemiHQ/bemi-prisma) ⭐ 114 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-26
 * [Prisma Schema SDL](https://github.com/amplication/prisma-schema-dsl) ⭐ 113 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-24
 * [Testing Prisma with PostgreSQL and Jest](https://github.com/ctrlplusb/prisma-pg-jest) ⭐ 101 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-06
 * [Caching Prisma](https://github.com/joellefkowitz/cached-prisma) ⭐ 89 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-20
@@ -76,9 +76,9 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 ### :gear: Schema Visualization Tools
 
 * [Prisma ERD Generator](https://github.com/keonik/prisma-erd-generator) ⭐ 1,034 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-15
-* [Prisma Editor - A powerful tool to visualize and edit Prisma Schema](https://github.com/mohammed-bahumaish/prisma-editor) ⭐ 1,032 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-09
+* [Prisma Editor - A powerful tool to visualize and edit Prisma Schema](https://github.com/mohammed-bahumaish/prisma-editor) ⭐ 1,033 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-09
 * [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator) ⭐ 741 | 🐛 21 | 🌐 TypeScript | 📅 2024-02-15
-* [`prisma-markdown` - Markdown generator, including ERD and descriptions](https://github.com/samchon/prisma-markdown) ⭐ 528 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-09
+* [`prisma-markdown` - Markdown generator, including ERD and descriptions](https://github.com/samchon/prisma-markdown) ⭐ 528 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-16
 * [Prisma ERD Visualizer](https://github.com/skn0tt/prisma-erd) ⭐ 357 | 🐛 5 | 🌐 HTML | 📅 2023-12-15
 * [prisma-uml](https://github.com/emyann/prisma-uml) ⭐ 123 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-12
 * [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.app/)
@@ -119,7 +119,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :family\_man\_woman\_girl\_boy: Community
 
-* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,670 | 🐛 2,852 | 🌐 TypeScript | 📅 2026-11-15
+* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,674 | 🐛 2,841 | 🌐 TypeScript | 📅 2026-11-17
 * [Website](https://prisma.io)
 * [Docs](https://prisma.io/docs/)
 * [Blog](https://prisma.io/blog)
@@ -128,12 +128,12 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :space\_invader: Projects Using Prisma
 
-* [Calendso](https://github.com/calendso/calendso) ⭐ 50,062 | 🐛 1,634 | 🌐 TypeScript | 📅 2026-11-13
-* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,808 | 🐛 857 | 🌐 TypeScript | 📅 2026-11-15 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+* [Calendso](https://github.com/calendso/calendso) ⭐ 50,102 | 🐛 1,639 | 🌐 TypeScript | 📅 2026-11-13
+* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,807 | 🐛 858 | 🌐 TypeScript | 📅 2026-11-16 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 * [Tottem](https://github.com/poulainv/tottem) ⭐ 972 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24
 * [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) ⭐ 788 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-15 - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 * [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) ⭐ 76 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-21 - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
-* [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) ⚠️ Archived - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud) ⭐ 4,320 | 🐛 289 | 🌐 TypeScript | 📅 2026-10-13)
+* [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) ⚠️ Archived - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud) ⭐ 4,319 | 🐛 289 | 🌐 TypeScript | 📅 2026-10-13)
 * [Neighborhood Pet Manager](https://github.com/AustinGil/npm) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-11
 * [Tomorrow](https://www.tomorrowapp.io/)
 * [Predict Covid](https://predictcovid.com/)
@@ -157,4 +157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
