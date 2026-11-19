@@ -47,7 +47,7 @@
             "open_issues": 21,
             "owner": "ridafkih",
             "repo": "schemix",
-            "stars": 480,
+            "stars": 479,
             "topics": [
               "orm",
               "prisma"
@@ -636,7 +636,7 @@
                 "open_issues": 250,
                 "owner": "RobertCraigie",
                 "repo": "prisma-client-py",
-                "stars": 2091,
+                "stars": 2090,
                 "topics": [
                   "asyncio",
                   "database",
@@ -682,7 +682,7 @@
                 "open_issues": 4,
                 "owner": "keonik",
                 "repo": "prisma-erd-generator",
-                "stars": 1034,
+                "stars": 1033,
                 "topics": [
                   "entity-relationship-diagram",
                   "hacktoberfest",
@@ -709,7 +709,7 @@
                 "open_issues": 33,
                 "owner": "mohammed-bahumaish",
                 "repo": "prisma-editor",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": [
                   "cockroachdb",
                   "database",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-13T19:35:07Z",
-            "open_issues": 1651,
+            "open_issues": 1660,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 50182,
+            "stars": 50235,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,8 +869,8 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T22:07:32Z",
-            "open_issues": 851,
+            "last_commit": "2026-11-19T20:10:06Z",
+            "open_issues": 878,
             "owner": "wasp-lang",
             "repo": "wasp",
             "stars": 18810,
@@ -923,7 +923,7 @@
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
-            "stars": 788,
+            "stars": 787,
             "topics": [
               "nextjs",
               "starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:57:44.242Z",
+    "last_updated": "2026-11-19T23:05:28.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
