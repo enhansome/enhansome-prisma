@@ -117,7 +117,7 @@
             "id": 273036595,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-20T18:08:41Z",
+            "last_commit": "2026-11-25T17:02:46Z",
             "open_issues": 15,
             "owner": "devoxa",
             "repo": "prisma-relay-cursor-connection",
@@ -147,7 +147,7 @@
             "id": 510493496,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T18:57:55Z",
+            "last_commit": "2026-11-25T18:47:41Z",
             "open_issues": 41,
             "owner": "morintd",
             "repo": "prismock",
@@ -837,10 +837,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-13T19:35:07Z",
-            "open_issues": 1656,
+            "open_issues": 1668,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 50368,
+            "stars": 50399,
             "topics": [
               "next-auth",
               "nextjs",
@@ -869,11 +869,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T16:38:38Z",
-            "open_issues": 867,
+            "last_commit": "2026-11-25T22:23:07Z",
+            "open_issues": 868,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18811,
+            "stars": 18812,
             "topics": [
               "javascript",
               "node",
@@ -923,7 +923,7 @@
             "open_issues": 5,
             "owner": "trpc",
             "repo": "examples-next-prisma-starter",
-            "stars": 787,
+            "stars": 786,
             "topics": [
               "nextjs",
               "starter",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:50:34.490Z",
+    "last_updated": "2026-11-26T00:29:32.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding Prisma ecosystem.",
