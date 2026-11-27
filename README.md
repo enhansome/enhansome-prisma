@@ -26,7 +26,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 ## :books: Docs
 
 * [Prisma Docs](https://www.prisma.io/docs/)
-* [Prisma Examples](https://github.com/prisma/prisma-examples) ⭐ 6,648 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-20
+* [Prisma Examples](https://github.com/prisma/prisma-examples) ⭐ 6,648 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-26
 
 ## :studio\_microphone: Events
 
@@ -42,7 +42,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware) ⚠️ Archived
 * [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) ⭐ 272 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-25
 * [Prismock - Run tests in isolation with an in-memory implementation of Prisma](https://github.com/morintd/prismock) ⭐ 266 | 🐛 41 | 🌐 TypeScript | 📅 2026-11-25
-* [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma) ⭐ 230 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-21
+* [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma) ⭐ 230 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-26
 * [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files](https://github.com/MrLeebo/prisma-ast) ⭐ 166 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-08
 * [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo) ⚠️ Archived
 * [Prisma Audit Trails](https://github.com/BemiHQ/bemi-prisma) ⭐ 114 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-26
@@ -119,7 +119,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :family\_man\_woman\_girl\_boy: Community
 
-* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,775 | 🐛 2,732 | 🌐 TypeScript | 📅 2026-11-25
+* [GitHub](https://github.com/prisma/prisma/) ⭐ 47,775 | 🐛 2,731 | 🌐 TypeScript | 📅 2026-11-27
 * [Website](https://prisma.io)
 * [Docs](https://prisma.io/docs/)
 * [Blog](https://prisma.io/blog)
@@ -128,10 +128,10 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :space\_invader: Projects Using Prisma
 
-* [Calendso](https://github.com/calendso/calendso) ⭐ 50,399 | 🐛 1,668 | 🌐 TypeScript | 📅 2026-11-13
-* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,812 | 🐛 868 | 🌐 TypeScript | 📅 2026-11-25 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+* [Calendso](https://github.com/calendso/calendso) ⭐ 50,414 | 🐛 1,674 | 🌐 TypeScript | 📅 2026-11-13
+* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,812 | 🐛 869 | 🌐 TypeScript | 📅 2026-11-26 Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 * [Tottem](https://github.com/poulainv/tottem) ⭐ 972 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24
-* [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) ⭐ 786 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-24 - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
+* [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) ⭐ 786 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-26 - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 * [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) ⭐ 76 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-21 - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
 * [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) ⚠️ Archived - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud) ⭐ 4,317 | 🐛 289 | 🌐 TypeScript | 📅 2026-10-13)
 * [Neighborhood Pet Manager](https://github.com/AustinGil/npm) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-11
@@ -157,4 +157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
